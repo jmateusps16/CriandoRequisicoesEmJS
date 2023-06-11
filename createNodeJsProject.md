@@ -35,3 +35,6 @@ npm install json-server
 
 ### Ao importar o projeto instale as depedências
 npm install
+
+### Rodar o projeto
+npx json-server --watch db.json
